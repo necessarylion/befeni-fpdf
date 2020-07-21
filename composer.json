@@ -1,0 +1,16 @@
+{
+    "name": "befeni/fpdf",
+    "description": "Fpdf php package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zin Kyaw Kyaw",
+            "email": "necessarylion@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Befeni\\": "src/"}
+    },
+    "require": {}
+}
